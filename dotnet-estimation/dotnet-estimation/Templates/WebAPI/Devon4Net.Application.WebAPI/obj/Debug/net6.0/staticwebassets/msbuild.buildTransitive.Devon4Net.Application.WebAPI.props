@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Devon4Net.Application.WebAPI.props" />
+</Project>
